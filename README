@@ -1,5 +1,4 @@
-Scripts and software for LIBSVM/LIBLINEAR hyperparameter search on
-Sun GridEngine clusters.
+Scripts for LIBSVM/LIBLINEAR hyperparameter search on Sun GridEngine clusters
 
 Copyright (C) 2008, 2009, 2010 Zeno Gantner
 
